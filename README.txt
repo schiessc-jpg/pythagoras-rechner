@@ -1,8 +1,9 @@
-Pythagoras Rechner – Version 2
+Pythagoras Rechner 3.0
 
-Alle Dateien direkt in das Hauptverzeichnis deines GitHub-Repositories hochladen.
-GitHub: Settings > Pages > Deploy from a branch > main > /(root) > Save.
-Nach der Veröffentlichung die HTTPS-Adresse in Safari auf dem iPhone öffnen und über Teilen > Zum Home-Bildschirm installieren.
+Alle Dateien zusammen in das Hauptverzeichnis des GitHub-Pages-Repositories hochladen. index.html muss im Hauptverzeichnis liegen.
 
-Funktionen: dynamische Dreiecksgrafik, Winkel, Rechteck-Diagonalen, Einheiten, Nachkommastellen, Verlauf im lokalen Speicher, Dark Mode, Offline-Cache.
-Hinweis: Ein lokaler Doppelklick auf index.html erlaubt die Grundfunktionen, aber Service Worker / PWA-Installation erfordern HTTPS (oder localhost).
+Funktionen: Dreieck mit ziehbaren Griffen, Winkel, Rechteckdiagonalen, Gefaelle, Treppenrechner, Einheiten, Praezision, Verlauf, Dunkelmodus, PDF-Export, Teilen und Offline-PWA.
+
+PDF-Export wird vollstaendig lokal im Browser erzeugt, ohne externe Dienste.
+
+Hinweis: Mess- und Treppenwerte ersetzen keine fachgerechte Planung oder Vermessung.
